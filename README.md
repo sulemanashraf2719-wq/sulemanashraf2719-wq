@@ -1,16 +1,16 @@
-## Hi there 👋
+# About Me
 
-<!--
-**sulemanashraf2719-wq/sulemanashraf2719-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in mobile video editing, creative tools, and resources for Android users.
 
-Here are some ideas to get you started:
+## InShot Editing Resources
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I share information about InShot features, mobile editing tips, version information, and guides for content creators.
+
+Visit my website: [InShot Pro APK](https://inshotproapk.net/)
+
+## Topics I Explore
+
+- Mobile video editing
+- Video and photo editing tools
+- Android apps and tutorials
+- Content creation tips
